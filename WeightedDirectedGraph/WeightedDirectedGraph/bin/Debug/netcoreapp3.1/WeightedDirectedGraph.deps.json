@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeightedDirectedGraph/1.0.0": {
+        "dependencies": {
+          "HeapTree": "1.0.0"
+        },
+        "runtime": {
+          "WeightedDirectedGraph.dll": {}
+        }
+      },
+      "HeapTree/1.0.0": {
+        "runtime": {
+          "HeapTree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeightedDirectedGraph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HeapTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

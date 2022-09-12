@@ -1,0 +1,13 @@
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\bin\Debug\netcoreapp3.1\HeapTree.exe
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\bin\Debug\netcoreapp3.1\HeapTree.deps.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\bin\Debug\netcoreapp3.1\HeapTree.runtimeconfig.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\bin\Debug\netcoreapp3.1\HeapTree.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\bin\Debug\netcoreapp3.1\HeapTree.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\bin\Debug\netcoreapp3.1\HeapTree.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\obj\Debug\netcoreapp3.1\HeapTree.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\obj\Debug\netcoreapp3.1\HeapTree.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\obj\Debug\netcoreapp3.1\HeapTree.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\obj\Debug\netcoreapp3.1\HeapTree.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\obj\Debug\netcoreapp3.1\HeapTree.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\obj\Debug\netcoreapp3.1\HeapTree.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\WeightedDirectedGraph\HeapTree\obj\Debug\netcoreapp3.1\HeapTree.genruntimeconfig.cache

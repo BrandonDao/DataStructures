@@ -1,0 +1,13 @@
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\bin\Debug\netcoreapp3.1\SortedDoublyLinkedList.exe
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\bin\Debug\netcoreapp3.1\SortedDoublyLinkedList.deps.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\bin\Debug\netcoreapp3.1\SortedDoublyLinkedList.runtimeconfig.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\bin\Debug\netcoreapp3.1\SortedDoublyLinkedList.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\bin\Debug\netcoreapp3.1\SortedDoublyLinkedList.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\bin\Debug\netcoreapp3.1\SortedDoublyLinkedList.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\obj\Debug\netcoreapp3.1\SortedDoublyLinkedList.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\obj\Debug\netcoreapp3.1\SortedDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\obj\Debug\netcoreapp3.1\SortedDoublyLinkedList.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\obj\Debug\netcoreapp3.1\SortedDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\obj\Debug\netcoreapp3.1\SortedDoublyLinkedList.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\obj\Debug\netcoreapp3.1\SortedDoublyLinkedList.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\SortedDoublyLinkedList\SortedDoublyLinkedList\obj\Debug\netcoreapp3.1\SortedDoublyLinkedList.genruntimeconfig.cache

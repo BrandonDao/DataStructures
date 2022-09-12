@@ -1,0 +1,14 @@
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\bin\Debug\netcoreapp3.1\ArrayBackedStack.exe
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\bin\Debug\netcoreapp3.1\ArrayBackedStack.deps.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\bin\Debug\netcoreapp3.1\ArrayBackedStack.runtimeconfig.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\bin\Debug\netcoreapp3.1\ArrayBackedStack.runtimeconfig.dev.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\bin\Debug\netcoreapp3.1\ArrayBackedStack.dll
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\bin\Debug\netcoreapp3.1\ArrayBackedStack.pdb
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\obj\Debug\netcoreapp3.1\ArrayBackedStack.csproj.AssemblyReference.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\obj\Debug\netcoreapp3.1\ArrayBackedStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\obj\Debug\netcoreapp3.1\ArrayBackedStack.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\obj\Debug\netcoreapp3.1\ArrayBackedStack.AssemblyInfo.cs
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\obj\Debug\netcoreapp3.1\ArrayBackedStack.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\obj\Debug\netcoreapp3.1\ArrayBackedStack.dll
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\obj\Debug\netcoreapp3.1\ArrayBackedStack.pdb
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\ArrayBackedStack\ArrayBackedStack\obj\Debug\netcoreapp3.1\ArrayBackedStack.genruntimeconfig.cache

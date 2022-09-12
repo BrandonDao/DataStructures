@@ -1,0 +1,13 @@
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\bin\Debug\netcoreapp3.1\Trie.exe
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\bin\Debug\netcoreapp3.1\Trie.deps.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\bin\Debug\netcoreapp3.1\Trie.runtimeconfig.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\bin\Debug\netcoreapp3.1\Trie.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\bin\Debug\netcoreapp3.1\Trie.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\bin\Debug\netcoreapp3.1\Trie.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.genruntimeconfig.cache

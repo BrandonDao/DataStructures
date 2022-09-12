@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OGb6Z4P7pheXIoAFyNGDVaX3LJ1Asef13V6hUo89ljMY5UHyv2uE4r55IB7QCEtNJOmlRBJGUiv8jukveNr5Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brandon\\Documents\\Visual Studio 2019\\Projects\\RedBlackTree\\RedBlackTree\\RedBlackTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brandon\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Brandon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

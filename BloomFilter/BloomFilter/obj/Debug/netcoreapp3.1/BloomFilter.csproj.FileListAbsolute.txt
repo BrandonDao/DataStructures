@@ -1,0 +1,14 @@
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\bin\Debug\netcoreapp3.1\BloomFilter.exe
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\bin\Debug\netcoreapp3.1\BloomFilter.deps.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\bin\Debug\netcoreapp3.1\BloomFilter.runtimeconfig.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\bin\Debug\netcoreapp3.1\BloomFilter.runtimeconfig.dev.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\bin\Debug\netcoreapp3.1\BloomFilter.dll
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\bin\Debug\netcoreapp3.1\BloomFilter.pdb
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\obj\Debug\netcoreapp3.1\BloomFilter.csproj.AssemblyReference.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\obj\Debug\netcoreapp3.1\BloomFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\obj\Debug\netcoreapp3.1\BloomFilter.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\obj\Debug\netcoreapp3.1\BloomFilter.AssemblyInfo.cs
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\obj\Debug\netcoreapp3.1\BloomFilter.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\obj\Debug\netcoreapp3.1\BloomFilter.dll
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\obj\Debug\netcoreapp3.1\BloomFilter.pdb
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BloomFilter\BloomFilter\obj\Debug\netcoreapp3.1\BloomFilter.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\bin\Debug\netcoreapp3.1\HuffmanCoding.exe
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\bin\Debug\netcoreapp3.1\HuffmanCoding.deps.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\bin\Debug\netcoreapp3.1\HuffmanCoding.runtimeconfig.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\bin\Debug\netcoreapp3.1\HuffmanCoding.runtimeconfig.dev.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\bin\Debug\netcoreapp3.1\HuffmanCoding.dll
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\bin\Debug\netcoreapp3.1\HuffmanCoding.pdb
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\obj\Debug\netcoreapp3.1\HuffmanCoding.csproj.AssemblyReference.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\obj\Debug\netcoreapp3.1\HuffmanCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\obj\Debug\netcoreapp3.1\HuffmanCoding.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\obj\Debug\netcoreapp3.1\HuffmanCoding.AssemblyInfo.cs
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\obj\Debug\netcoreapp3.1\HuffmanCoding.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\obj\Debug\netcoreapp3.1\HuffmanCoding.dll
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\obj\Debug\netcoreapp3.1\HuffmanCoding.pdb
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\HuffmanCoding\HuffmanCoding\obj\Debug\netcoreapp3.1\HuffmanCoding.genruntimeconfig.cache

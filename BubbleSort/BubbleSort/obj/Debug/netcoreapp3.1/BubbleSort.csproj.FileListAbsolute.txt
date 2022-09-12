@@ -1,0 +1,27 @@
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache

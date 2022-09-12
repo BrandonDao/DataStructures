@@ -1,0 +1,14 @@
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\bin\Debug\netcoreapp3.1\LRUCache.exe
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\bin\Debug\netcoreapp3.1\LRUCache.deps.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\bin\Debug\netcoreapp3.1\LRUCache.runtimeconfig.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\bin\Debug\netcoreapp3.1\LRUCache.runtimeconfig.dev.json
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\bin\Debug\netcoreapp3.1\LRUCache.dll
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\bin\Debug\netcoreapp3.1\LRUCache.pdb
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\obj\Debug\netcoreapp3.1\LRUCache.csproj.AssemblyReference.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\obj\Debug\netcoreapp3.1\LRUCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\obj\Debug\netcoreapp3.1\LRUCache.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\obj\Debug\netcoreapp3.1\LRUCache.AssemblyInfo.cs
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\obj\Debug\netcoreapp3.1\LRUCache.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\obj\Debug\netcoreapp3.1\LRUCache.dll
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\obj\Debug\netcoreapp3.1\LRUCache.pdb
+C:\Users\brand\Documents\GitHub\Projects\CSharp\DataStructures\LRUCache\LRUCache\obj\Debug\netcoreapp3.1\LRUCache.genruntimeconfig.cache

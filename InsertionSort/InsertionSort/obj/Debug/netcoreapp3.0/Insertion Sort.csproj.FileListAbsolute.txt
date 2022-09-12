@@ -1,0 +1,11 @@
+C:\Users\Brandon\source\repos\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.0\Insertion Sort.exe
+C:\Users\Brandon\source\repos\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.0\Insertion Sort.deps.json
+C:\Users\Brandon\source\repos\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.0\Insertion Sort.runtimeconfig.json
+C:\Users\Brandon\source\repos\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.0\Insertion Sort.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.0\Insertion Sort.dll
+C:\Users\Brandon\source\repos\InsertionSort\InsertionSort\bin\Debug\netcoreapp3.0\Insertion Sort.pdb
+C:\Users\Brandon\source\repos\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.0\Insertion Sort.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.0\Insertion Sort.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.0\Insertion Sort.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.0\Insertion Sort.dll
+C:\Users\Brandon\source\repos\InsertionSort\InsertionSort\obj\Debug\netcoreapp3.0\Insertion Sort.pdb

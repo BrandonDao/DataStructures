@@ -1,0 +1,26 @@
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\bin\Debug\netcoreapp3.1\AVL Tree.exe
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\bin\Debug\netcoreapp3.1\AVL Tree.deps.json
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\bin\Debug\netcoreapp3.1\AVL Tree.runtimeconfig.json
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\bin\Debug\netcoreapp3.1\AVL Tree.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\bin\Debug\netcoreapp3.1\AVL Tree.dll
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\bin\Debug\netcoreapp3.1\AVL Tree.pdb
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.csproj.AssemblyReference.cache
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.dll
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.pdb
+C:\Users\Brandon\source\repos\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.genruntimeconfig.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\bin\Debug\netcoreapp3.1\AVL Tree.exe
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\bin\Debug\netcoreapp3.1\AVL Tree.deps.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\bin\Debug\netcoreapp3.1\AVL Tree.runtimeconfig.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\bin\Debug\netcoreapp3.1\AVL Tree.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\bin\Debug\netcoreapp3.1\AVL Tree.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\bin\Debug\netcoreapp3.1\AVL Tree.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\AVL Tree\AVL Tree\obj\Debug\netcoreapp3.1\AVL Tree.genruntimeconfig.cache

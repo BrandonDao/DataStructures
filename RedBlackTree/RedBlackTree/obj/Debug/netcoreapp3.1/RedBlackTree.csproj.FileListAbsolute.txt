@@ -1,0 +1,13 @@
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\obj\Debug\netcoreapp3.1\RedBlackTree.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\obj\Debug\netcoreapp3.1\RedBlackTree.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\obj\Debug\netcoreapp3.1\RedBlackTree.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\obj\Debug\netcoreapp3.1\RedBlackTree.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\bin\Debug\netcoreapp3.1\RedBlackTree.exe
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\bin\Debug\netcoreapp3.1\RedBlackTree.deps.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\bin\Debug\netcoreapp3.1\RedBlackTree.runtimeconfig.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\bin\Debug\netcoreapp3.1\RedBlackTree.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\bin\Debug\netcoreapp3.1\RedBlackTree.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\bin\Debug\netcoreapp3.1\RedBlackTree.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\obj\Debug\netcoreapp3.1\RedBlackTree.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\obj\Debug\netcoreapp3.1\RedBlackTree.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\RedBlackTree\RedBlackTree\obj\Debug\netcoreapp3.1\RedBlackTree.genruntimeconfig.cache

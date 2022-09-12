@@ -1,0 +1,13 @@
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\obj\Debug\netcoreapp3.0\MergeSort.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\obj\Debug\netcoreapp3.0\MergeSort.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\bin\Debug\netcoreapp3.0\MergeSort.exe
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\bin\Debug\netcoreapp3.0\MergeSort.deps.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\bin\Debug\netcoreapp3.0\MergeSort.runtimeconfig.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\bin\Debug\netcoreapp3.0\MergeSort.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\bin\Debug\netcoreapp3.0\MergeSort.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\bin\Debug\netcoreapp3.0\MergeSort.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\obj\Debug\netcoreapp3.0\MergeSort.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\obj\Debug\netcoreapp3.0\MergeSort.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\obj\Debug\netcoreapp3.0\MergeSort.csproj.AssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\obj\Debug\netcoreapp3.0\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MergeSort\MergeSort\obj\Debug\netcoreapp3.0\MergeSort.genruntimeconfig.cache
