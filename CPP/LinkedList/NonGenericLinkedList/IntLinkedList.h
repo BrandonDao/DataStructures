@@ -16,8 +16,7 @@ struct IntLinkedList {
 	IntLinkedListNode* head{};
 	IntLinkedListNode* tail{};
 
-	IntLinkedList() {
-	}
+	IntLinkedList() {}
 	~IntLinkedList() {
 		IntLinkedListNode* curr = head;
 
@@ -75,15 +74,6 @@ struct IntLinkedList {
 		curr->next = curr->next->next;
 		count--;
 		return true;
-	}
-
-	IntLinkedList* operator +(const IntLinkedList& addMe) {
-		auto list = this;
-
-		list->tail->next = addMe.head;
-		list->tail = addMe.tail;
-		list->count += addMe.count;
-		return list;
 	}
 
 private:

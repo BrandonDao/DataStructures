@@ -25,17 +25,6 @@ int main()
 	//	leakRAM();
 	//}
 
-	IntLinkedList one{};
-	one.add(1);
-	one.add(2);
-	one.add(3);
-
-	IntLinkedList two{};
-	two.add(4);
-	two.add(5);
-	two.add(6);
-
-	auto three = one + two;
 
 	return 0;
 }
