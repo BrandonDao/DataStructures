@@ -1,3 +1,2 @@
 ﻿  Source.cpp
-C:\Users\brand\Documents\GitHub\DataStructures\CPP\GenericLinkedList\GenericLinkedList\LinkedList.h(16,11): error C2040: 'Node<T>::next': 'Node<T> *' differs in levels of indirection from 'std::shared_ptr<Node<T>>'
-C:\Users\brand\Documents\GitHub\DataStructures\CPP\GenericLinkedList\GenericLinkedList\LinkedList.h(22): message : see reference to class template instantiation 'Node<T>' being compiled
+  GenericLinkedList.vcxproj -> C:\Users\brand\Documents\GitHub\DataStructures\CPP\GenericLinkedList\Debug\GenericLinkedList.exe

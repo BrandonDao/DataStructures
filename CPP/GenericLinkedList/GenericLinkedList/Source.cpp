@@ -1,17 +1,21 @@
 #include "LinkedList.h"
 
 int main() {
+	while(true)	{
+		LinkedList<int> list{};
 
-	LinkedList<int*> list{};
+		list.add(1);
+		list.add(2);
+		list.add(3);
 
-	auto one = new int(1);
+		list.remove(2);
 
-	list.add(new int(1));
-	list.add(one);
-	list.add(new int(2));
-	list.add(new int(3));
-	
-	list.remove(one);
+		auto betterList = list;
+		list = list;
+		list = betterList;
+		betterList.add(42);
+		auto test(betterList);
+	}
 
 	return 0;
 };
