@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DPL65at4rYNn7zTUQm0NG0CLmmZl7MrVNnSH68jpYQytDSWbw99FOnasNwF3JFrT8gAh33UezCC70rSjsXhnwg==",
+  "dgSpecHash": "+UZwtJlFvf9NVwBjACcHDjd752mmGXjyhzCrpF6qNoK2a2F5MdB8DZDaVkb7O7jcUQXazZW1NlFZO9ZqBoDjQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Brandon\\Documents\\Visual Studio 2019\\Projects\\DataStructures\\Trie\\Trie\\Trie.csproj",
+  "projectFilePath": "C:\\Users\\brand\\Documents\\GitHub\\DataStructures\\CSharp\\Trie\\Trie\\Trie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

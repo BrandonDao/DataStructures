@@ -11,3 +11,17 @@ C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\
 C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.dll
 C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.pdb
 C:\Users\Brandon\Documents\Visual Studio 2019\Projects\DataStructures\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.genruntimeconfig.cache
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\bin\Debug\netcoreapp3.1\Trie.exe
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\bin\Debug\netcoreapp3.1\Trie.deps.json
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\bin\Debug\netcoreapp3.1\Trie.runtimeconfig.json
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\bin\Debug\netcoreapp3.1\Trie.runtimeconfig.dev.json
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\bin\Debug\netcoreapp3.1\Trie.dll
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\bin\Debug\netcoreapp3.1\Trie.pdb
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.csproj.AssemblyReference.cache
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.AssemblyInfo.cs
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.dll
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.pdb
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\Trie\Trie\obj\Debug\netcoreapp3.1\Trie.genruntimeconfig.cache
