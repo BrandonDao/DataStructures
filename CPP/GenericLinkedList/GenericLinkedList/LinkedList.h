@@ -90,12 +90,6 @@ struct LinkedList {
 	}
 
 	struct iterator {
-		// don't know what this is for but maybe for compiler optimizations
-		using difference_type = T;
-		using value_type = T;
-		using pointer = const T*;
-		using reference = const T&;
-		using iterator_catagory = std::forward_iterator_tag;
 
 		// Constructor
 		iterator(std::shared_ptr<Node<T>> current) {
@@ -103,7 +97,7 @@ struct LinkedList {
 		}
 
 		// Operators
-		const T& operator * () const {
+		const T& operator *() const {
 			return current->value;
 		}
 		iterator& operator ++() { // increment, return
@@ -112,14 +106,14 @@ struct LinkedList {
 		}
 		iterator& operator ++(T) { // return, increment (might not work)
 			auto temp = *this;
-			current = current->next;
-			return *this;
+			operator++();
+			return temp;
 		}
 		bool operator ==(iterator other) {
 			return current == other.current;
 		}
 		bool operator !=(iterator other) {
-			return current != other.current;
+			return !(*this == other);
 		}
 
 	private:
