@@ -2,58 +2,27 @@
 #include <iostream>
 #include <vector>
 
-template <typename T>
-void swap1(std::_Vector_iterator<T> a, std::_Vector_iterator<T> b) {
+
+template <typename cat>
+void swap2(cat a, cat b) {
 	auto temp = *a;
 	*a = *b;
 	*b = temp;
 }
 
-//template <typename iterator>
-//void swap2(iterator a, iterator b) {
-//	auto temp = *a;
-//	*a = *b;
-//	*b = temp;
-//}
-
-template <typename T>
-void infiniteLoop(std::_Vector_iterator<T> begin, std::_Vector_iterator<T> end) {
-	for(auto a = begin; a != end; a++) {
-		for (auto b = begin; b != end; b++) {
-			if (*a > *b) {
-				std::swap(a, b);
-			}
-		}
-	}
-}
-
-template <typename T>
-void bestSort(std::_Vector_iterator<T> begin, std::_Vector_iterator<T> end) {
-	for (auto a = begin; a != end; a++) {
-		for (auto b = a + 1; b != end; b++) {
-			if (*a > *b) {
-				swap1(a, b);
-			}
-		}
-	}
-}
-
-template <typename iterator>
-void attempt3(iterator begin, iterator end) {
+template <typename cat>
+void attempt3(cat begin, cat end) {
 
 	for (auto a = begin; a != end; a++) {
 		for (auto b = a; b != end; b++) {
 			if (*a > *b) {
-				//swap2(a, b);
+				swap2(a, b);
 			}
 		}
 	}
 }
 
 int main() {
-		LinkedList<int> list{};
-
-
 		std::vector<int> vcat{};
 		vcat.emplace_back(5);
 		vcat.emplace_back(1);
@@ -61,16 +30,25 @@ int main() {
 		vcat.emplace_back(2);
 		vcat.emplace_back(3);
 
-		bestSort(vcat.begin(), vcat.end());
+		attempt3(vcat.begin(), vcat.end());
 
-		list.add(1);
-		list.add(3);
-		list.add(2);
-		list.add(10);
-		list.add(-1);
-		list.add(100);
 
-		//attempt3(list.begin(), list.end());
+		LinkedList<int> list{};
+
+		while (true) {
+
+			list.add(1);									// 1
+			auto test = list.insertAfter(list.begin(), 2);	// 1 -> 2
+			test = list.insertAfter(test, 3);				// 1 -> 2 -> 3
+			test = list.insertAfter(test, 4);				// 1 -> 2 -> 3 -> 4
+			auto testtt = list.eraseAfter(list.begin());	// 1 -> 3 -> 4
+			testtt = list.eraseAfter(testtt);				// 1 -> 4
+			testtt = list.eraseAfter(testtt);				// 1
+			list.remove(1);									// empty
+
+			//attempt3(list.begin(), list.end());
+		}
+
 
 		// For memory leak testing
 		//auto betterList = list;
@@ -83,5 +61,5 @@ int main() {
 		//	std::cout << val << std::endl;
 		//}
 
-	return 0xcafebabe;
+	return 0xdead;
 };

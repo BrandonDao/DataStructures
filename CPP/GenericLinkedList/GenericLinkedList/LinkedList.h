@@ -15,6 +15,63 @@ struct Node {
 
 template <typename T>
 struct LinkedList {
+
+	struct iterator {
+
+		// Constructor
+		iterator(std::shared_ptr<Node<T>> current) {
+			this->current = current;
+		}
+
+		// Operators
+		const T& operator *() const {
+			return current->value;
+		}
+		T& operator *() {
+			return current->value;
+		}
+		iterator& operator ++() { // increment, return
+			current = current->next;
+			return *this;
+		}
+		iterator& operator ++(T) { // return, increment (might not work)
+			auto temp = *this;
+			operator++();
+			return temp;
+		}
+		bool operator ==(iterator other) {
+			return current == other.current;
+		}
+		bool operator !=(iterator other) {
+			return !(*this == other);
+		}
+
+		iterator addAfter(T val) {
+			auto next = current->next;
+			auto node = std::make_shared<Node<T>>(val);
+
+			current->next = node;
+			node->next = next;
+			return iterator{ node };
+		}
+		iterator eraseAfter() {
+			// technically wrong? because it has to return the iterator following the deleted value
+			auto test = current->next;
+			current->next = current->next->next;
+			return *this;
+		}
+
+	private:
+		std::shared_ptr<Node<T>> current;
+	};
+
+	iterator begin() { // iterator pointing to first val
+		return iterator{ head };
+	}
+	iterator end() { // iterator pointing to last val's next
+		return iterator{ nullptr };
+	}
+
 	int count{};
 	std::shared_ptr<Node<T>> head{};
 	std::shared_ptr<Node<T>> tail{};
@@ -62,6 +119,10 @@ struct LinkedList {
 
 		count++;
 	}
+	iterator insertAfter(iterator iter, T val) {
+		count++;
+		return iter.addAfter(val);
+	}
 
 	// Removing
 	bool remove(T value) {
@@ -88,44 +149,12 @@ struct LinkedList {
 		count--;
 		return true;
 	}
-
-	struct iterator {
-
-		// Constructor
-		iterator(std::shared_ptr<Node<T>> current) {
-			this->current = current;
-		}
-
-		// Operators
-		const T& operator *() const {
-			return current->value;
-		}
-		iterator& operator ++() { // increment, return
-			current = current->next;
-			return *this;
-		}
-		iterator& operator ++(T) { // return, increment (might not work)
-			auto temp = *this;
-			operator++();
-			return temp;
-		}
-		bool operator ==(iterator other) {
-			return current == other.current;
-		}
-		bool operator !=(iterator other) {
-			return !(*this == other);
-		}
-
-	private:
-		std::shared_ptr<Node<T>> current;
-	};
-
-	iterator begin() { // iterator pointing to first val
-		return iterator{ head };
+	iterator eraseAfter(iterator iter) {
+		count--;
+		return iter.eraseAfter();
 	}
-	iterator end() { // iterator pointing to last val's next
-		return iterator{ nullptr };
-	}
+
+
 
 private:
 	// Helper for assignment operator + copy constructor
