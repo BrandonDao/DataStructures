@@ -130,7 +130,15 @@
     <ClCompile Include="Program.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AddOperator.h" />
+    <ClInclude Include="ConditionalOperator.h" />
+    <ClInclude Include="Node.h" />
+    <ClInclude Include="NotOperator.h" />
+    <ClInclude Include="Operator.h" />
     <ClInclude Include="SyntaxTree.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

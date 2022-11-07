@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Struct Name="AddOperator&lt;operand&gt;">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="Operator&lt;size, operand&gt;">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-0.051" Y="-0.008" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAADAAAEAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddOperator.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="NotOperator&lt;operand&gt;">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="Operator&lt;size, operand&gt;" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="2.117" />
+        <Point X="5" Y="2.308" />
+        <Point X="3.125" Y="2.308" />
+        <Point X="3.125" Y="2.5" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-0.378" Y="0.256" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAADAAAEAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NotOperator.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Operator&lt;size, operand&gt;">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="Node&lt;size&gt;" FixedToPoint="true">
+      <Path>
+        <Point X="2" Y="0.625" />
+        <Point X="4.25" Y="0.625" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.874" Y="-0.016" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAEAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operator.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Node&lt;size&gt;">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Node.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ConditionalOperator&lt;operand&gt;">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="Operator&lt;size, operand&gt;">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.013" Y="0.261" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAADAAAEAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConditionalOperator.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
