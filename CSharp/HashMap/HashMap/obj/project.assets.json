@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brand\\Documents\\GitHub\\Projects\\cSharp\\DataStructures\\HashMap\\HashMap\\HashMap.csproj",
+      "projectUniqueName": "C:\\Users\\brand\\Documents\\GitHub\\DataStructures\\CSharp\\HashMap\\HashMap\\HashMap.csproj",
       "projectName": "HashMap",
-      "projectPath": "C:\\Users\\brand\\Documents\\GitHub\\Projects\\cSharp\\DataStructures\\HashMap\\HashMap\\HashMap.csproj",
+      "projectPath": "C:\\Users\\brand\\Documents\\GitHub\\DataStructures\\CSharp\\HashMap\\HashMap\\HashMap.csproj",
       "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brand\\Documents\\GitHub\\Projects\\cSharp\\DataStructures\\HashMap\\HashMap\\obj\\",
+      "outputPath": "C:\\Users\\brand\\Documents\\GitHub\\DataStructures\\CSharp\\HashMap\\HashMap\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,16 +51,35 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.30, 3.1.30]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

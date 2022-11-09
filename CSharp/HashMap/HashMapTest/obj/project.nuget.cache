@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fBO3pKM1QbajVq2jMQZRsmVRpqc0C2xCRkcYQxG/Wr/EGqhYc8ZSWfkiGqPwLugOzBF2nHDzMuiKJnK7pvtiYw==",
+  "dgSpecHash": "YEFXoJ+veWwr67be1UmG8MLLKrA5/1+sk9cHs9eDqJKrsWwXhtSB3DBnv5j2YFttD7PuaJxJ96eYSBT8jIghdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brand\\Documents\\GitHub\\Projects\\cSharp\\DataStructures\\HashMap\\HashMapTest\\HashMapTest.csproj",
+  "projectFilePath": "C:\\Users\\brand\\Documents\\GitHub\\DataStructures\\CSharp\\HashMap\\HashMapTest\\HashMapTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brand\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\brand\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
@@ -95,7 +95,10 @@
     "C:\\Users\\brand\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\brand\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\brand\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "C:\\Users\\brand\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    "C:\\Users\\brand\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SyntaxTree.Operators.AddOperator">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAQAgAAAAAAA=</HashCode>
+      <FileName>Operators\AddOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SyntaxTree.Operators.ConditionalOperator">
+    <Position X="4.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAQAgAAAAAAA=</HashCode>
+      <FileName>Operators\ConditionalOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SyntaxTree.Operators.NotOperator">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAQAgAAAAAAA=</HashCode>
+      <FileName>Operators\NotOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SyntaxTree.Operators.Operator">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SyntaxTree.Operators.Operator.Types" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Operators\Operator.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SyntaxTree.Operators.Operator.Precedences" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Operators\Operator.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQAgAAAAAAA=</HashCode>
+      <FileName>Operators\Operator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SyntaxTree.Node">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

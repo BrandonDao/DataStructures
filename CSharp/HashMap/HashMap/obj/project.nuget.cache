@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "412rCblitGgxUphWZMDa/TojKO7YMToya2abGLKWkXcpn6fPQUJ0tKXtXwDNsvjsQ6IZpVeHx/bUL8KFrqzwTQ==",
+  "dgSpecHash": "jeUR4Fo/URfdkJ47TcHFrD2x1eIbuhW0mvoSWQERcQgk/a+eqplpL1M3/Zorig680PbGnoljs8thkD7wy0Spuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brand\\Documents\\GitHub\\Projects\\cSharp\\DataStructures\\HashMap\\HashMap\\HashMap.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\brand\\Documents\\GitHub\\DataStructures\\CSharp\\HashMap\\HashMap\\HashMap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\brand\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\bin\Debug\net6.0\SyntaxTree.exe
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\bin\Debug\net6.0\SyntaxTree.deps.json
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\bin\Debug\net6.0\SyntaxTree.runtimeconfig.json
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\bin\Debug\net6.0\SyntaxTree.dll
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\bin\Debug\net6.0\SyntaxTree.pdb
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\obj\Debug\net6.0\SyntaxTree.csproj.AssemblyReference.cache
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\obj\Debug\net6.0\SyntaxTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\obj\Debug\net6.0\SyntaxTree.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\obj\Debug\net6.0\SyntaxTree.AssemblyInfo.cs
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\obj\Debug\net6.0\SyntaxTree.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\obj\Debug\net6.0\SyntaxTree.dll
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\obj\Debug\net6.0\refint\SyntaxTree.dll
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\obj\Debug\net6.0\SyntaxTree.pdb
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\obj\Debug\net6.0\SyntaxTree.genruntimeconfig.cache
+C:\Users\brand\Documents\GitHub\DataStructures\CSharp\SyntaxTree\SyntaxTree\obj\Debug\net6.0\ref\SyntaxTree.dll
