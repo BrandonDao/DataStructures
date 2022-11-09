@@ -1,5 +1,8 @@
-﻿namespace SyntaxTree
+﻿using System.Diagnostics;
+
+namespace SyntaxTree
 {
+    [DebuggerDisplay("Number: {Value}")]
     public class Number : INode
     {
         public double Value { get; }

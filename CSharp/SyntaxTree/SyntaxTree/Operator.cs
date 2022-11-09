@@ -1,28 +1,34 @@
-﻿namespace SyntaxTree
+﻿using System.Diagnostics;
+
+namespace SyntaxTree
 {
+    [DebuggerDisplay("{Priority} priority operator: {Value,nq}")]
     public class Operator : INode
     {
-        public enum Types
+        public enum Priorities
         {
-            Unary,
-            Binary,
-            Ternary
+            Low,
+            Medium,
+            High
+        }
+        private static readonly Dictionary<string, Priorities> priorityMap = new()
+        {
+            ["+"] = Priorities.Low,
+            ["-"] = Priorities.Low,
+            ["*"] = Priorities.Medium,
+            ["/"] = Priorities.Medium,
+            ["^"] = Priorities.High
         };
 
         public string Value { get; }
-        public Types Type { get; }
+        public Priorities Priority { get; }
         public INode[] Children { get; }
 
         public Operator(string value)
         {
             Value = value;
-            Children = Array.Empty<INode>();
-        }
-        public Operator(string value, Types type, INode[] children)
-        {
-            Value = value;
-            Type = type;
-            Children = children;
+            Priority = priorityMap[value];
+            Children = new INode[2];
         }
     }
 }
