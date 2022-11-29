@@ -2,12 +2,18 @@
 #include <string>
 #include "Operator.h"
 
-template <typename operand>
-struct AddOperator : public Operator<2, operand>
+struct AddOperator : public Operator<OpTypes::Binary>
 {
-	OpTypes getOpType() override { OpTypes::Binary; }
-	int getPrecedence() override { return 1; }
+	OpTypes getOpType() override { return OpTypes::Binary; }
 	std::string getValue() override { return "+"; }
 
-	operand execute(operand operands[]) override { return operands[0] + operands[1]; }
+	AddOperator(std::unique_ptr<Node> lhs)
+	{
+		children[0] = std::move(lhs);
+	}
+
+	int evaluate(std::unordered_map<std::string, int> variableToValue) override
+	{
+		return children[0]->evaluate(variableToValue) + children[1]->evaluate(variableToValue);
+	}
 };

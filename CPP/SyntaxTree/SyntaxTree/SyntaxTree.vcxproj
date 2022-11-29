@@ -128,17 +128,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Program.cpp" />
+    <ClCompile Include="SyntaxTree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AddOperator.h" />
-    <ClInclude Include="ConditionalOperator.h" />
+    <ClInclude Include="NegateOperator.h" />
     <ClInclude Include="Node.h" />
-    <ClInclude Include="NotOperator.h" />
     <ClInclude Include="Operator.h" />
+    <ClInclude Include="Parenthesis.h" />
     <ClInclude Include="SyntaxTree.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="ClassDiagram.cd" />
+    <ClInclude Include="Variable.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,18 +1,18 @@
 #pragma once
 #include "Node.h"
+#include <memory>
 
 enum OpTypes
 {
-	Unary,
+	Unary = 1,
 	Binary,
 	Ternary
 };
 
-template <size_t size, typename operand>
-struct Operator : public Node<size>
+template <size_t size>
+struct Operator : public Node
 {
-	virtual OpTypes getOpType() = 0;
-	virtual int getPrecedence() = 0;
+	std::unique_ptr<Node> children[size];
 
-	virtual operand execute(operand operands[]) = 0;
+	virtual OpTypes getOpType() = 0;
 };
