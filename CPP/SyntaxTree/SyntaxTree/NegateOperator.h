@@ -2,18 +2,25 @@
 #include "Operator.h"
 #include <memory>
 
-struct NegateOperator : public Operator<OpTypes::Unary>
+template <typename T>
+concept Negatable = requires(T x)
+{
+	{-x} -> std::same_as<T>; // -x has to compile and return type has to equal T
+};
+
+template <Negatable T>
+struct NegateOperator : public Operator<OpTypes::Unary, T>
 {
 	OpTypes getOpType() override { return OpTypes::Unary; }
 	std::string getValue() override { return "-"; }
 
 	NegateOperator() {}
-	NegateOperator(std::unique_ptr<Node> child)
+	NegateOperator(std::unique_ptr<Node<T>> child)
 	{
 		children[0] = std::move(child);
 	}
 
-	int evaluate(std::unordered_map<std::string, int> variableToValue) override
+	T evaluate(std::unordered_map<std::string, T> variableToValue) override
 	{
 		return -(children[0]->evaluate(variableToValue));
 	}

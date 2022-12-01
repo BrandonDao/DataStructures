@@ -2,19 +2,20 @@
 #include "Operator.h"
 #include <memory>
 
-struct Parenthesis : public Operator<OpTypes::Unary>
+template <typename T>
+struct Parenthesis : public Operator<OpTypes::Unary, T>
 {
 	OpTypes getOpType() override { return OpTypes::Unary; }
 	std::string getValue() override { return val; }
 	
 	Parenthesis(char val) { this->val = val; }
-	Parenthesis(char val, std::unique_ptr<Node> child)
+	Parenthesis(char val, std::unique_ptr<Node<T>> child)
 	{
 		this->val = val;
 		children[0] = std::move(child);
 	}
 
-	int evaluate(std::unordered_map<std::string, int> variableToValue) override
+	T evaluate(std::unordered_map<std::string, T> variableToValue) override
 	{
 		return children[0]->evaluate(variableToValue);
 	}

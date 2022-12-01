@@ -9,10 +9,10 @@ enum OpTypes
 	Ternary
 };
 
-template <size_t size>
-struct Operator : public Node
+template <size_t size, typename T>
+struct Operator : public Node<T>
 {
-	std::unique_ptr<Node> children[size];
+	std::unique_ptr<Node<T>> children[size];
 
 	virtual OpTypes getOpType() = 0;
 };

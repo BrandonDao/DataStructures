@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            var tree = new MathSyntaxTree("4x / 2 + 5^2");
+            var tree = new MathSyntaxTree("40x / 2 + 2^3");
         }
     }
 }

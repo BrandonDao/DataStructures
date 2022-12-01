@@ -1,4 +1,5 @@
-﻿using System.Text.RegularExpressions;
+﻿using SyntaxTree.INodes;
+using System.Text.RegularExpressions;
 
 namespace SyntaxTree
 {
@@ -8,7 +9,8 @@ namespace SyntaxTree
         {
             [new Regex(@"^\d+\.?\d*")] = (input) => new Number(double.Parse(input)),
             [new Regex(@"^[a-zA-Z]")] = (input) => new Variable(input),
-            [new Regex(@"^[+\-*\/^]")] = (input) => new Operator(input)
+            [new Regex(@"^[+\-*\/^]")] = (input) => new Operator(input),
+            [new Regex(@"^[()]")] = (input) => new Parenthesis(input)
         };
         public static List<INode> Tokenize(this string input)
         {
@@ -25,7 +27,7 @@ namespace SyntaxTree
                     if (!match.Success) continue;
 
                     INode node = regexToINode[regex].Invoke(match.Value);
-                    if (node.GetType() == typeof(Variable))
+                    if (node is Variable)
                     {
                         tokens.Add(new Operator("*"));
                     }
@@ -49,7 +51,7 @@ namespace SyntaxTree
 
             foreach (INode token in tokens)
             {
-                if (token.GetType() != typeof(Operator))
+                if (token is Operator)
                 {
                     outputQ.Enqueue(token);
                     continue;
