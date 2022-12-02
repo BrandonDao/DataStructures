@@ -12,12 +12,12 @@ struct Parenthesis : public Operator<OpTypes::Unary, T>
 	Parenthesis(char val, std::unique_ptr<Node<T>> child)
 	{
 		this->val = val;
-		children[0] = std::move(child);
+		Operator<OpTypes::Unary, T>::children[0] = std::move(child);
 	}
 
 	T evaluate(std::unordered_map<std::string, T> variableToValue) override
 	{
-		return children[0]->evaluate(variableToValue);
+		return Operator<OpTypes::Unary, T>::children[0]->evaluate(variableToValue);
 	}
 
 private:

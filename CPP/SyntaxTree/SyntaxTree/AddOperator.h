@@ -3,6 +3,12 @@
 #include "Operator.h"
 
 template <typename T>
+concept Addable = requires(T x)
+{
+	{x + x} -> std::same_as<T>;
+};
+
+template <Addable T>
 struct AddOperator : public Operator<OpTypes::Binary, T>
 {
 	OpTypes getOpType() override { return OpTypes::Binary; }
@@ -10,11 +16,12 @@ struct AddOperator : public Operator<OpTypes::Binary, T>
 
 	AddOperator(std::unique_ptr<Node<T>> lhs)
 	{
-		children[0] = std::move(lhs);
+		Operator<OpTypes::Binary, T>::children[0] = std::move(lhs);
 	}
 
 	T evaluate(std::unordered_map<std::string, T> variableToValue) override
 	{
-		return children[0]->evaluate(variableToValue) + children[1]->evaluate(variableToValue);
+		return Operator<OpTypes::Binary, T>::children[0]->evaluate(variableToValue) + 
+			   Operator<OpTypes::Binary, T>::children[1]->evaluate(variableToValue);
 	}
 };
