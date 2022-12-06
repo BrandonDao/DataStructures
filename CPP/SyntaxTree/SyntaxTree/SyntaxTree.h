@@ -23,7 +23,7 @@ class SyntaxTree
 
 public:
 	std::unique_ptr<Node<T>> root;
-	std::unordered_map<std::string, int> variableToValue;
+	std::unordered_map<std::string, T> variableToValue;
 
 	SyntaxTree(std::string expression);
 	SyntaxTree(std::string::const_iterator beginI, std::string::const_iterator endI);
@@ -31,7 +31,7 @@ public:
 	T evaluateExpression();
 
 private:
-	bool isVariable() const;
+	static bool isVariable(const char c) { return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z'); }
 	bool isParenthesis() const;
 	bool isUnaryOp() const;
 	bool isBinaryOp() const;
@@ -42,8 +42,8 @@ private:
 	std::unique_ptr<Operator<OpTypes::Binary, T>> readBinaryOp(std::unique_ptr<Node<T>> lhs);
 };
 
-template <typename T>
-bool SyntaxTree<T>::isVariable() const { char c = *currI; return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z'); }
+//template <typename T>
+//static bool SyntaxTree<T>::isVariable(const char c)
 template <typename T>
 bool SyntaxTree<T>::isParenthesis() const  { char c = *currI; return c == '(' || c == ')'; }
 template <typename T>
@@ -101,7 +101,7 @@ std::unique_ptr<Node<T>> SyntaxTree<T>::readUnary()
 		currI++;
 		return temp;
 	}
-	else if (isVariable())
+	else if (SyntaxTree<T>::isVariable(*currI))
 	{
 		std::string::const_iterator newI = std::find_if_not(currI, endI, &SyntaxTree::isVariable);
 		auto temp = std::make_unique<Variable<T>>(currI++, newI);

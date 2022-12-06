@@ -8,20 +8,24 @@ concept Negatable = requires(T x)
 	{-x} -> std::same_as<T>; // -x has to compile and return type has to equal T
 };
 
-template <Negatable T>
+template <typename T>
 struct NegateOperator : public Operator<OpTypes::Unary, T>
 {
 	OpTypes getOpType() override { return OpTypes::Unary; }
 	std::string getValue() override { return "-"; }
 
-	NegateOperator() {}
-	NegateOperator(std::unique_ptr<Node<T>> child)
+	NegateOperator()
 	{
-		Operator<OpTypes::Unary, T>::children[0] = std::move(child);
+		// evaluated at compile time.  If false, is not checked by the compiler
+		if constexpr (!Negatable<T>) throw std::runtime_error("Type is not negatable!");
 	}
 
 	T evaluate(std::unordered_map<std::string, T> variableToValue) override
 	{
-		return -(Operator<OpTypes::Unary, T>::children[0]->evaluate(variableToValue));
+		if constexpr (Negatable<T>)
+		{
+			return -(Operator<OpTypes::Unary, T>::children[0]->evaluate(variableToValue));
+		}
+		throw std::runtime_error("Type is not negatable!");
 	}
 };

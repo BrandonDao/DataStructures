@@ -4,13 +4,13 @@
 int main()
 {
 	// expression must only add, negate, group, use single-character variables, and cannot have spaces
-	SyntaxTree<int> tree("(Apple)+-(Banana+Coconut)");
+	SyntaxTree<std::string> tree("(Apple)+(Banana+-Coconut)");
 
 	tree.variableToValue.insert(
 	{
-		{ "Apple", 5 },
-		{ "Banana", 6 },
-		{ "Coconut", 7 }
+		{ "Apple", "Hel" },
+		{ "Banana", "lo W" },
+		{ "Coconut", "orld!" }
 	});
 
 	auto result = tree.evaluateExpression(); // -8
